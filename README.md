@@ -1,1 +1,3 @@
 # Risky-Business
+
+This is an exercise in two parts that uses machine learning models find whether loans are likely to be high or low risk based on existing loan data. In the first part, credit_risk_resampling.ipynb, LogisticRegression from sklearn, and RandomOverSampler, SMOTE, ClusterCentroids, and SMOTEENN from imblearn are compared.  In the second part, credit_risk_ensemble.ipynb, the classifiers BalancedRandomForestClassifier and EasyEnsembleClassifier from imblearn are compared.
